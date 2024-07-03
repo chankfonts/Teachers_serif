@@ -11,4 +11,4 @@ It is a clean serif font intended to represent the letterforms of the alphabet a
 
 The Teachers Serif font comes in 2 styles: Regular and Bold. For Italics
 
-The Teachers Serif fonts were assembled by font designer Chank Diesel, making edits and updates to the previously existing opensource fonts Sourcee Serif Pro (Regular and Bold) by Alfredo Marco Pradil of Hanken Design Co.
+The Teachers Serif fonts were assembled by font designer Chank Diesel, making edits and updates to the previously existing opensource fonts Source Serif Pro (Regular and Bold) by Adobe Systems Incorporated.
