@@ -7,7 +7,8 @@ a,
 g,
 "à",
 "ẽ",
-"ģ"
+"ģ",
+f
 );
 customParameters = (
 {
@@ -1509,7 +1510,7 @@ uni04F2.sc
 );
 }
 );
-date = "2024-07-16 19:47:02 +0000";
+date = "2024-07-22 17:53:56 +0000";
 familyName = "Teachers Serif";
 featurePrefixes = (
 {
@@ -3074,39 +3075,6 @@ language TRK;
 lookup SUB_29;
 ";
 tag = zero;
-},
-{
-code = "script DFLT;
-language dflt;
-lookup SUB_30 {
-	sub f f i by f_f_i;
-	sub f f l by f_f_l;
-	sub f f by f_f;
-	sub f i by f_i;
-	sub f l by f_l;
-	sub f t by f_t;
-} SUB_30;
-script cyrl;
-language dflt;
-lookup SUB_30;
-language SRB;
-lookup SUB_30;
-script grek;
-language dflt;
-lookup SUB_30;
-script latn;
-language dflt;
-lookup SUB_30;
-language AZE;
-lookup SUB_30;
-language CRT;
-lookup SUB_30;
-language NLD;
-lookup SUB_30;
-language TRK;
-lookup SUB_30;
-";
-tag = liga;
 },
 {
 code = "script DFLT;
@@ -6808,6 +6776,7 @@ unicode = 101;
 glyphname = f;
 kernLeft = f;
 kernRight = f;
+lastChange = "2024-07-22 17:54:44 +0000";
 layers = (
 {
 anchors = (
@@ -6896,7 +6865,7 @@ nodes = (
 );
 }
 );
-width = 362;
+width = 372;
 }
 );
 note = f;
